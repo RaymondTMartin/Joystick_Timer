@@ -1,2 +1,2 @@
 # Joystick_Timer
-This project uses an Arduino, Joystick, and LED's in order to set timers for flash in League of Legends. 
+This project uses an Arduino, Joystick, and an LCD Display in order to set timers for flashes in League of Legends. 
